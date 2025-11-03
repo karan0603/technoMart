@@ -19,10 +19,15 @@ Experience smooth navigation and real-time data updates powered by Firebase.
 
 🧰 Tech Stack
 Technology	- Purpose
+
 FlutterFlow -	Frontend UI design and app logic
+
 Firebase Firestore -	Real-time database for product and user data
+
 Firebase Authentication -	Secure user login and admin access
+
 Firebase Storage -	Image and media storage
+
 Firebase Hosting -	Deployment and hosting of the web app
 
 UI/UX Highlights
